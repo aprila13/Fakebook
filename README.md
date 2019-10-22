@@ -1,3 +1,2 @@
 # Fakebook
-Built with HTML and CSS
-Not mobile responsive
+Built with HTML and CSS----Not mobile responsive
